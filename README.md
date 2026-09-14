@@ -119,21 +119,18 @@ Python and Pandas were used for:
 ✔ Data Cleaning
 ✔ Missing Value Handling
 ✔ Genre Analysis
+
+## 🔗 PROJECT LINKS
+
+### 💻 GitHub Repository
+[🚀 Open GitHub Repository](https://github.com/Minu-Kumar/Netflix-Data-Analysis-Dashboard)
+
+### 📊 Live Tableau Dashboard
+[🎬 Open Tableau Dashboard](https://public.tableau.com/app/profile/minu.kumar3707/viz/1netflix_17869426197230/newdashboard?publish=yes)
 ✔ Country Analysis
 ✔ Release Year Analysis
 ✔ Dataset Preparation
 
 
-# 🔗 PROJECT LINKS
-
-<div align="center">
-
-<a href="https://github.com/Minu-Kumar/Netflix-Data-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://public.tableau.com/app/profile/minu.kumar3707/viz/1netflix_17869426197230/newdashboard?publish=yes">
-<img src="https://img.shields.io/badge/📊%20Live%20Tableau%20Dashboard-9B00FF?style=for-the-badge&logo=tableau&logoColor=white"/>
-</a>
 
 </div>
